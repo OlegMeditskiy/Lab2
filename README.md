@@ -29,3 +29,4 @@ Det ska finnas en funktion för att ta bort en bok ur listan. (VG)
 
 Den som vill ha en extra utmaning (inte betygsatt) kan implementera ett filter: en textruta där man skriver text; listan med böcker uppdateras så att bara de böcker som matchar texten visas. Görs bäst med higher order functions.
 # Lab2
+# Lab2
